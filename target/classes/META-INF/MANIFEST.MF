@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: Usuario
+Build-Jdk: 17.0.6
+Class-Path: lib/jackson-databind-2.13.3.jar lib/jackson-annotations-2.13
+ .3.jar lib/jackson-core-2.13.3.jar
+Main-Class: ar.edu.utn.ap40.Main
+Created-By: Maven Integration for Eclipse
+
